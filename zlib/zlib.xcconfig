@@ -1,0 +1,3 @@
+MODULEMAP_FILE[sdk=iphoneos*]        = $(SRCROOT)/zlib/iphoneos.modulemap
+MODULEMAP_FILE[sdk=iphonesimulator*] = $(SRCROOT)/zlib/iphonesimulator.modulemap
+MODULEMAP_FILE[sdk=macosx*]          = $(SRCROOT)/zlib/macosx.modulemap
